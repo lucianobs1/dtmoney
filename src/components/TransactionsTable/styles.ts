@@ -17,12 +17,12 @@ export const Container = styled.div`
     td {
       padding: 1rem 2rem;
       border: 0;
-      background: var(--shape);
+      background: var(--grey-800);
       color: var(--text-body);
       border-radius: 0.25rem;
 
       &:first-child {
-        color: var(--text-title);
+        color: var(--text-title-table);
       }
 
       &.deposit {
