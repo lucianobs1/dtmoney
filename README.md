@@ -1,46 +1,79 @@
-# Getting Started with Create React App
+# dtmoney
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>
+  <img src="https://img.shields.io/badge/madeby-LUCIANO%20BRAND%C3%83O-blueviolet">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianobs1/dtmoney?color=blueviolet">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/lucianobs1/dtmoney?color=blueviolet">
+  
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
+## Tópicos 
 
-### `yarn start`
+[Sobre o dt money](#sobre-o-dt-money)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Tecnologias](#tecnologias)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[Instalação e uso](#instalação-e-uso)
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Sobre o dt money
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+O dt money é uma site para gerenciar seus ganhos e gastos de maneira simples para facilitar o seu gerenciamento. Você pode cadastrar atividades que geram rendas ou despesas e o site irá organizar essas ações.
+<br><br><br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">
+  <img src="https://github.com/lucianobs1/dtmoney/blob/main/dtmoney.png?raw=true" alt="Página inicial">
+</p>
 
-### `yarn eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<p align="center">
+  <img src="https://github.com/lucianobs1/dtmoney/blob/main/modal_example.png?raw=true" alt="Modal">
+</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Tecnologias
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
-## Learn More
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [MirageJS](https://miragejs.com/)
+- [Axios](https://github.com/axios/axios)
+- [Polished](https://polished.js.org/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Instalação e uso
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Abra um terminal e copie este repositório com o comando
+git clone https://github.com/martins-rafael/dtmoney.git
+# ou use a opção de download.
+# Entre na pasta web com 
+cd dtmoney
+# Instale as dependências
+yarn install
+# Rode a aplicação
+yarn start
+```
+
+<br>
+
+---
+
+Feito com :green_heart: by [Luciano Brandão](https://github.com/lucianobs1)
+
+ <div> 
+    <a href="https://www.instagram.com/lucianobs1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-       badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:lucianojob1@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+   <a href="https://discord.gg/2qXGB3P3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/luciano-brandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+
+
+
